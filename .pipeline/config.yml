@@ -19,8 +19,8 @@ stages:
   Release:
     cloudFoundryDeploy: true
     cfApiEndpoint: "https://api.cf.us10.hana.ondemand.com"
-    cfOrg: "org"
-    cfSpace: "space"
+    cfOrg: "CV Free"
+    cfSpace: "Free Trial"
     cfAppName: "app"
     cfCredentialsId: "deploy-to-cf"
     tmsUpload: false
